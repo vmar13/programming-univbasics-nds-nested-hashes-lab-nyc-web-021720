@@ -14,6 +14,7 @@ def assembled_aoh
     KATE_G,
     BRUCE_G
     ]
+    result
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
 end
